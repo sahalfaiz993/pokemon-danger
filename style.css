@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    background-image:url(image1.webp);
+    
+    
+}
+.one:hover{
+    background-color:blue;
+    scale: 1.1;
+}
+
+
+
+
+
+
+
+
+  
